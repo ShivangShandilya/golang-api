@@ -10,8 +10,8 @@ RUN go mod download
 # Copy app files
 COPY . .
 
-RUN go build -o go-app
+RUN go build -o golang-api
 
-EXPOSE 8000
+EXPOSE 8080
 
-CMD ["./go-app"]
+CMD ["./golang-api"]

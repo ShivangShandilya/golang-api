@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: golang-api
-          image: shivangshandilya/golang-api-{{IMAGE_TAG}}
+          image: shivangshandilya/golang-api:latest
           ports:
           - containerPort: 3000
           resources:

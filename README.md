@@ -134,7 +134,7 @@ This project is entirely open-source, if you spot any errors in documnetation or
 
 ### LICENSE
 
-This project is licensed under [MIT License]().
+This project is licensed under [MIT License](https://github.com/ShivangShandilya/golang-api/blob/main/LICENSE).
 
 ### Acknowledgements
 

@@ -130,7 +130,7 @@ kubectl get pods -n operators
 
 ### CONTRIBUTE
 
-This project is entirely open-source, if you spot any errors in documnetation or codebase or just wanna suggest an improvement in project, feel free to rise an issue.
+This project is entirely open-source, if you spot any errors in documnetation or codebase or just wanna suggest an improvement in project, feel free to raise an issue.
 
 ### LICENSE
 
